@@ -1,4 +1,0 @@
-interface:
-  display_name: "Zotero Import & Translate"
-  short_description: "Import papers to Zotero with OCR and translation"
-  default_prompt: "Use $zotero-import-translate to import these papers into Zotero, OCR scanned PDFs when needed, and generate Chinese full-text translations."
