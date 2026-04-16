@@ -2,7 +2,7 @@
 
 Bilingual Codex skill and GitHub-ready project for importing papers into Zotero, attaching PDFs, running OCR on scanned files, and generating full-text translations.
 
-面向 Codex 的双语 skill 与可上传 GitHub 的完整项目，用于将文献导入 Zotero、附加 PDF、对扫描件执行 OCR，并生成全文翻译。
+用于将文献导入 Zotero、附加 PDF、对扫描件执行 OCR，并生成全文翻译。
 
 ## Quick Links
 
